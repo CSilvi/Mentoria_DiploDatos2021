@@ -18,47 +18,53 @@ El dataset consistirá en tres tablas:
 
 ## Contenidos
 
-1. **Análisis y Visualización de Datos**
+**1. Análisis y Visualización de Datos**
 
 En esta etapa se consistirá en entender el problema de concentración de la demanda en unos pocos oferentes y
 encontrar patrones de consumo que permitan generar propuestas para lograr una descompresión de la demanda
+
+- Notebook JupiteLab: [Practico_1](https://github.com/CSilvi/Mentoria_DiploDatos2021/blob/main/Notebooks/An%C3%A1lisis_oferta_demanda.ipynb)
+  
+
+- Informe: [Informe_1](https://github.com/CSilvi/Mentoria_DiploDatos2021/blob/main/Notebooks/Practico_1.ipynb)
        
-       - Notebook JupiteLab: https://github.com/CSilvi/Mentoria_DiploDatos2021/blob/main/Notebooks/An%C3%A1lisis_oferta_demanda.ipynb
-       - Informe_1: https://github.com/CSilvi/Mentoria_DiploDatos2021/blob/main/Notebooks/Practico_1.ipynb
        
-       
-2. **Análisis Exploratorio y Curación de Datos**
+**2. Análisis Exploratorio y Curación de Datos**
 
 En esta etapa de análisis exploratorio y curación de datos, se enfocará en feature engineering
 
-       - Notebook JupiteLab: https://github.com/CSilvi/Mentoria_DiploDatos2021/blob/main/Notebooks/Pr%C3%A1ctico_2.ipynb
+- Notebook JupiteLab: [Practico_2](https://github.com/CSilvi/Mentoria_DiploDatos2021/blob/main/Notebooks/Pr%C3%A1ctico_2.ipynb)
      
 
-3. **Modelos Aprendizaje Automático**
+**3. Modelos Aprendizaje Automático**
 
 En esta etapa e consistirá en aplicar algoritmos básicos para entender 
 las características asociadas a los distintos segmentos de pacientes y centros médicos. Métricas y validación de resultados
 
-       - Notebook JupiteLab: https://github.com/CSilvi/Mentoria_DiploDatos2021/blob/main/Notebooks/Pr%C3%A1ctico%203.ipynb
-       - Informe_2: https://github.com/CSilvi/Mentoria_DiploDatos2021/blob/main/Informes/Informe_2_Exploracion_modelos_ML.docx
+- Notebook JupiteLab: [Practico_3](https://github.com/CSilvi/Mentoria_DiploDatos2021/blob/main/Notebooks/Pr%C3%A1ctico%203.ipynb)
+
+- Informe: [Informe_2](https://github.com/CSilvi/Mentoria_DiploDatos2021/blob/main/Informes/Informe_2_Exploracion_modelos_ML.docx)
 
 Se aplicaron dos modelos de clasificacion decision tree, logistic regression que tengan como target feature categoria_socio.
 Para la construcción de los modelos: se dividir los datos en conjunto de entrenamiento y validación, cross-validation, grid-search.
 
-4. **Modelos de Aprendizaje Supervisado**
+**4. Modelos de Aprendizaje Supervisado**
 
 En esta etapa consistirá en desarrollar algoritmos de recomendación
 
-       - Notebook JupiteLab: https://github.com/CSilvi/Mentoria_DiploDatos2021/blob/main/Notebooks/Practico_4.ipynb
-       - Informe_3: https://github.com/CSilvi/Mentoria_DiploDatos2021/blob/main/Informes/Informe_3_Modelo_de_Recomendacion.docx
+- Notebook JupiteLab: [Practico_5](https://github.com/CSilvi/Mentoria_DiploDatos2021/blob/main/Notebooks/Practico_4.ipynb)
+       
+- Informe: [Informe_4](https://github.com/CSilvi/Mentoria_DiploDatos2021/blob/main/Informes/Informe_3_Modelo_de_Recomendacion.docx)
 
-5. **Modelos Aprendizaje No Supervisado**
+**5. Modelos Aprendizaje No Supervisado**
 
 En esta etapa que consistirá en explorar reglas de asociación.
+  - Algoritmos de Clustering: Self Organizing Maps - SOM
+  - Metodos para determinar numeros de clustering: método del codo y Silhouette
 
-       - Notebook JupiteLab: https://github.com/CSilvi/Mentoria_DiploDatos2021/blob/main/Notebooks/Practico_5.ipynb
+- Notebook JupiteLab: [Practico_5](https://github.com/CSilvi/Mentoria_DiploDatos2021/blob/main/Notebooks/Practico_5.ipynb)
+
        
-
 
 
 
