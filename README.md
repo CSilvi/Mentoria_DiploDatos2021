@@ -66,7 +66,14 @@ En esta etapa que consistirá en explorar reglas de asociación.
 
        
 
-
+## Requerimientos
+- matplotlib 3.3.2
+- pandas 1.1.3
+- numpy 1.19.5
+- seaborn 0.11.1
+- scikit-learn 0.23.2
+- ptitprince==0.2.5
+- pandas-profiling==2.11.0
 
 
 
